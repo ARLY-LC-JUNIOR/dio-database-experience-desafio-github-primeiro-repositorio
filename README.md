@@ -1,2 +1,2 @@
-# dio-database-ex-desafio-github-primeiro-repositorio
+# dio-database-exp-desafio-github-primeiro-repositorio
 Desafio de projeto sobre Git/GitHub
